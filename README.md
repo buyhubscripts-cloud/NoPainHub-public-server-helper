@@ -1,1 +1,0 @@
-# NoPainHub-public-server-helper
